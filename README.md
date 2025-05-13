@@ -7,16 +7,19 @@
     <title>Meu portfólio</title>
 </head>
 <body>
-    <img src="img/avatar-perfil.png" alt="avatar da Nat" srcset="">
-    <p>Eu sou Nathalia</p>
-    <h1>Eu estou aprendendo Programação</h1>
-    <p>Sou  aluna do ensino medio, e estou aprendendo programação com os cursos do Alura! </p>
-    <p>Minhas habilidades</p>
-    <div>
+    <header class= "container">
+        <img src="img/avatar-perfil.png" alt="avatar da Nat" srcset="">
+        <p>Eu sou Nathalia</p>
+        <h1>Eu estou aprendendo Programação</h1>
+        <p>Sou  aluna do ensino medio, e estou aprendendo programação com os cursos do Alura! </p>
+        <p>Minhas habilidades</p>
+        <div>
             <p>HTML</p>
             <p>CSS</p>
             <p>JavaScript</p>
             <p>Scratch</p>
-    </div>
+        </div>
+    </header>
 </body>
+
 </html>
