@@ -7,7 +7,7 @@
     <title>Meu portfólio</title>
 </head>
 <body>
-    <header class= "container">
+    <header class= "container text-center">
         <img src="img/avatar-perfil.png" alt="avatar da Nat" srcset="">
         <p>Eu sou Nathalia</p>
         <h1>Eu estou aprendendo Programação</h1>
