@@ -95,6 +95,13 @@
 </div>
   </div>
     </main>
+    <footer class="container">
+ <h2>Entre em contato</h2>
+    <div>
+        <a href="https://github.com/femascheti">GitHub</a>
+    </div>
+    <p class="my-5 text-center">© Copyright 2024. Produzido por Nathalia Mascheti</p>
+</footer>
 </body>
 
 </html>
