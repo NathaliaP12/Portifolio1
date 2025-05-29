@@ -54,7 +54,7 @@
 <div class="col-md-4">
   <div class="card">
     <img
-      src="img/projeto-1.png"
+      src="img/projeto-2.png"
       class="card-img-top"
       alt="Imagem do projeto de biblioteca virtual"
     />
@@ -77,7 +77,7 @@
 <div class="col-md-4">
   <div class="card">
     <img
-      src="img/projeto-1.png"
+      src="img/projeto-3.png"
       class="card-img-top"
       alt="Imagem do projeto de biblioteca virtual"
     />
