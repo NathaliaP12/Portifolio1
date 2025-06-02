@@ -44,7 +44,7 @@
         links para compra na Amazon. A página é estilizada com CSS para uma
         visualização agradável e usa fontes externas do Google Fonts.
       </p>
-      <button type="button" class="btn btn-link">Veja o projeto</button>
+      <button type="button" class="btn btn-link" data-bs-toggle="modal" data-bs-target="#modal1" >Veja o projeto</button>
     </div>
   </div>
 </div>
@@ -66,7 +66,7 @@
         links para compra na Amazon. A página é estilizada com CSS para uma
         visualização agradável e usa fontes externas do Google Fonts.
       </p>
-      <button type="button" class="btn btn-link">Veja o projeto</button>
+      <button type="button" class="btn btn-link" data-bs-toggle="modal" data-bs-target="#modal2">Veja o projeto</button>
     </div>
   </div>
 </div>
@@ -89,7 +89,7 @@
         links para compra na Amazon. A página é estilizada com CSS para uma
         visualização agradável e usa fontes externas do Google Fonts.
       </p>
-      <button type="button" class="btn btn-link">Veja o projeto</button>
+      <button type="button" class="btn btn-link" data-bs-toggle="modal" data-bs-target="#modal3">Veja o projeto</button>
     </div>
   </div>
 </div>
