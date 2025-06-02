@@ -95,12 +95,13 @@
 </div>
   </div>
     </main>
-    <footer class="container">
+
+  <footer class="container py-5">
  <h2>Entre em contato</h2>
     <div>
         <a href="https://github.com/NathaliaP12">GitHub</a>
     </div>
-    <p class="my-5 text-center">© Copyright 2025. Produzido por Nathalia Pereira</p>
+    <p class="my-5 text-center">© Copyright 2024. Produzido por Nathalia Pereira</p>
 </footer>
 </body>
 
