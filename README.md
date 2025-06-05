@@ -17,7 +17,7 @@
         <p>Sou aluna do Ensino Médio. Estou aprendendo sobre programação com os cursos do alura, utilisando algumas liguagens de programação, como o HTML, CSS e JavaScript. veja </p>
         <p>Minhas habilidades</p>
         <div>
-           <p class="badge bg-secondary">HTML</p>
+            <p class="badge bg-secondary">HTML</p>
             <p class="badge bg-secondary">CSS</p>
             <p class="badge bg-secondary">JavaScript</p>
             <p class="badge bg-secondary">Scratch</p>
@@ -42,7 +42,7 @@
                     </div>
                 </div>
             </div>
-   <!-- Projeto 2 -->
+  <!-- Projeto 2 -->
             <div class="col-md-4">
                 <div class="card">
                     <img src="img/projeto-2.png" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
@@ -78,9 +78,8 @@
         </div>
     </main>
 
- 
-  <!-- Modal 1 -->
-   <div class="modal" id="modal1" tabindex="-1">
+ <!-- Modal 1 -->
+ <div class="modal" id="modal1" tabindex="-1">
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header">
@@ -117,10 +116,8 @@
         </div>
     </div>
 
-
-
-  <footer class="container py-5">
- <h2>Entre em contato</h2>
+ <footer class="container py-5">
+        <h2>Entre em contato</h2>
     <div>
         <a href="https://github.com/NathaliaP12">GitHub</a>
     </div>
