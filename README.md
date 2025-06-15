@@ -22,8 +22,8 @@
             <p class="badge bg-secondary">JavaScript</p>
             <p class="badge bg-secondary">Scratch</p>
         </div>
-    </header>
-    <main class="container mt-5">
+    </header>  
+<main class="container mt-5">
         <h2>Meus projetos</h2>
         <div class="row">
             <!-- Projeto 1 -->
@@ -42,7 +42,7 @@
                     </div>
                 </div>
             </div>
-  <!-- Projeto 2 -->
+            <!-- Projeto 2 -->
             <div class="col-md-4">
                 <div class="card">
                     <img src="img/projeto-2.png" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
@@ -58,9 +58,8 @@
                     </div>
                 </div>
             </div>
-
-  <!-- Projeto 3 -->
-   <div class="col-md-4">
+            <!-- Projeto 3 -->
+            <div class="col-md-4">
                 <div class="card">
                     <img src="img/projeto-3.png" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
                     <div class="card-body">
@@ -77,9 +76,8 @@
             </div>
         </div>
     </main>
-
  <!-- Modal 1 -->
- <div class="modal" id="modal1" tabindex="-1">
+    <div class="modal" id="modal1" tabindex="-1">
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header">
@@ -115,13 +113,13 @@
             </div>
         </div>
     </div>
-
- <footer class="container py-5">
-        <h2>Entre em contato</h2>
+  <footer class="container py-5">
+     
+  <h2>Entre em contato</h2>
     <div>
         <a href="https://github.com/NathaliaP12">GitHub</a>
     </div>
-    <p class="my-5 text-center">© Copyright 2024. Produzido por Nathalia Pereira</p>
+    <p class="my-5 text-center">© Copyright 2025. Produzido por Nathalia Pereira</p>
 </footer>
 </body>
 
