@@ -201,6 +201,7 @@
      
   <h2>Entre em contato</h2>
     <div>
+    <i class="bi bi-github"></i>
         <a href="https://github.com/NathaliaP12">GitHub</a>
     </div>
     <p class="my-5 text-center">© Copyright 2025. Produzido por Nathalia Pereira</p>
